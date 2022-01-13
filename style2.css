@@ -1,3 +1,7 @@
+/* 
+* Second method using grid-template-columns
+*/
+
 :root {
   --clr-primary-400: 263 55% 52%;
   --clr-secondary-400: 217 19% 35%;
